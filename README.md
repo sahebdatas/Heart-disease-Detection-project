@@ -1,5 +1,12 @@
 # Heart-disease-Detection-project
-Mini project of heart disease detection using supervised Machine Learning
-library used are pandas, numpy, sklearn, matplotlib, pickel
-algorithm used random forest classifier
-iterated with Random Forest Classifer with different estimator value to get the best result
+
+Project Title :- Heart Disease Detection using machine learning using Python Machine learning
+In this project I have done some Exploratory Data Analysis (EDA) of heart patients and presented it in beautiful charts and graphs to make it presentable and also to get clear vision of what kind of features and records are in the dataset and what is the insights of the data.
+Implemented using:-
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Here,
+  By inputting some test results of a patient the model can predict if the patient has a heart disease or not.
